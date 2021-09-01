@@ -1,2 +1,2 @@
 # Section 4 Simulation Study
-Load functions and included objects and use main.R for a sample run.
+Load functions and objects to use main.R for a sample run.
