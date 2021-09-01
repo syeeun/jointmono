@@ -4,4 +4,4 @@ by Yei Eun Shin, Lan Zhou, and Yu Ding (Computational Statistics &amp; Data Anal
 
 * Directory 'functions' includes R functions to apply the proposed analysis
 * Directory 'sample' includes R commands for a sample run (see main.R)
-* Directory 'windpowerdata' includes wind power data and setup code for application. 
+* Directory 'windpowerdata' includes wind power data and setup commands for application. 
