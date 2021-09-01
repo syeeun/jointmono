@@ -2,6 +2,6 @@
 
 * EXP.txt is the original dataset for wind power data application used in the paper. Further resources are available at https://aml.engr.tamu.edu/book-dswe/dswe-datasets/
 
-* setup.R includes R commands for transforming the original data to apply the joint estimation of monotone curves via functional principal component analysis as proposed in the paper. 
+* setup.R includes R commands for transforming the original data to apply the proposed method.
 
 * windpower_data.rds is R dataset for the analysis.
