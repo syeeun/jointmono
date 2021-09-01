@@ -4,4 +4,4 @@
 
 * setup.R includes R commands for transforming the original data to apply the proposed method.
 
-* windpower_data.rds is R dataset obtained by setup.R and EXP.txt.
+* windpower_data.rds is R dataset obtained by setup.R.
