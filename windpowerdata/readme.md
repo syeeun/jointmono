@@ -1,3 +1,5 @@
+# Section 5 Application: Wind Power Curve Data
+
 * EXP.txt is the original dataset for wind power application used in the paper. Further resources are available at https://aml.engr.tamu.edu/book-dswe/dswe-datasets/
 
 * setup.R includes R commands for transforming the original data to apply the joint estimation of monotone curves via functional principal component analysis as proposed in the paper. 
