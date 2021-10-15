@@ -5,3 +5,5 @@
 * setup.R includes R commands for transforming the original data to apply the proposed method.
 
 * windpower_data.rds is R dataset obtained by setup.R.
+
+* windpower_mfpca_npc3.R includes R commands for applying the method with three principal component functions (K=3). 
